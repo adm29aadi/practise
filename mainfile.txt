@@ -1,1 +1,2 @@
 the basic info wali file
+i changed it in main_1
